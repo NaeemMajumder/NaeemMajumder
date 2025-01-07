@@ -15,7 +15,7 @@
 <p align="left">I'm a MERN Stack Developer passionate about building robust, efficient, and user-centric web applications that deliver 100% client satisfaction.<br><br><br>🌱 Continuous Learner: I believe in sharing knowledge and growing together. Learning and teaching are at the core of my journey.<br><br>🧩 Problem-Solver: I thrive on tackling real-world challenges and crafting innovative solutions.<br><br>🎯 Goal-oriented: With a strategic mindset, I approach every project with a clear vision and end goal in mind.<br><br><br>🔧 <b>Expertise:</b><br><br>🚀MERN Stack: Specializing in developing high-quality web applications using MongoDB, Express.js, React.js, and Node.js.<br><br>🚀Other Languages: Proficient in C, C++, and Java, which I enjoy exploring alongside my primary tech stack.<br><br>🚀Experience: Over the years, I’ve developed numerous applications, focusing on delivering quality work and maintaining excellent communication.</p>
 
 ###
-
+<br>
 <h2 align="left">I code with</h2>
 
 ###
@@ -51,7 +51,7 @@
 </div>
 
 ###
-
+<br>
 <h2 align="left">Connect with Me</h2>
 
 ###
@@ -80,7 +80,7 @@
 <img src="https://raw.githubusercontent.com/NaeemMajumder/NaeemMajumder/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<br>
 <h2 align="left">🎯 Final Goal</h2>
 
 ###
