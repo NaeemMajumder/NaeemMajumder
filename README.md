@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://github.com/NaeemMajumder/NaeemMajumder/blob/main/Black%20Trendy%20Gamer%20Youtube%20Banner.png?raw=true"  />
+  <img height="450" src="https://github.com/NaeemMajumder/NaeemMajumder/blob/main/Black%20Trendy%20Gamer%20Youtube%20Banner.png?raw=true"  />
 </div>
 
 ###
