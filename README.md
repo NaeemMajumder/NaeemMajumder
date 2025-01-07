@@ -80,3 +80,11 @@
 <img src="https://raw.githubusercontent.com/NaeemMajumder/NaeemMajumder/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h2 align="left">🎯 Final Goal</h2>
+
+###
+
+<p align="left">While I specialize in the MERN stack, my ultimate goal is to become a Cybersecurity Penetration Tester. I am dedicated to learning about security vulnerabilities, ethical hacking, and securing systems to ensure a safer digital world.</p>
+
+
